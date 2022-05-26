@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package cardtrickice1;
-
+//
 /** define card value and suits
  * 
  *
